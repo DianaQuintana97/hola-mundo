@@ -1,3 +1,3 @@
-# hola-mundo
-mi primer repositorio 
+# Hola-mundo
+mi primer repositorio por ahora
 DQG
